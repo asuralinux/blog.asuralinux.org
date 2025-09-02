@@ -56,3 +56,8 @@ theme = "paper"
 # Define how permalinks are organized
 [permalinks]
   posts = "/:year/:month/:slug/"
+
+# Define image cache for GH Action workflow
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
