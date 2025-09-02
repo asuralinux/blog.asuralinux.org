@@ -1,3 +1,58 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.asuralinux.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Asura Linux Project'
+
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'asuralinux'
+  mastodon = 'https://hachyderm.io/@asuralinux'
+  rss = true
+
+  # home page profile
+  name = 'Asura Linux Project Blog'
+  bio = 'Updates from the Asura Linux Project'
+
+  # misc
+  disableHLJS = false                       # disable highlight.js
+  disablePostNavigation = false             # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  math = true                               # enable KaTeX math typesetting globally
+
+# Site menu
+[menu]
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts'
+  
+# Define taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Privacy settings
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.x]
+    disable = true
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+# Define how permalinks are organized
+[permalinks]
+  posts = "/:year/:month/:slug/"
