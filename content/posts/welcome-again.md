@@ -50,7 +50,7 @@ I recently found some time to reactivate this blog and migrate the Asura Linux M
 To quote the project introduction again:
 > Asura Linux is an Open Source project to experiment with different ways of building and running modern general-purpose Linux systems—and to share what we learn along the way.
 
-I don't think I'll be spending time on trying to build a usable Linux distro anytime soon. However, there are intriguing ideas I want to try, especially from an infrastructure perspective. For example, I'm currently working on converting an OCI container to a Firecracker microVM and running it on a standard Linux host. It may (or may not) have something to do with my views about Kubernetes. And there's more where that came from.
+I don't think I'll be spending time on trying to build a usable Linux distro anytime soon. However, there are intriguing ideas I want to try, especially from an infrastructure perspective. For example, I'm currently working on converting an OCI container to a [Firecracker](https://firecracker-microvm.github.io/) microVM and running it on a standard Linux host. It may (or may not) have something to do with my [views about Kubernetes](https://gaveen.me/2019/12/i-dont-believe-in-kubernetes/). And there's more where that came from.
 
 In summary, Asura Linux will focus on experimentation and knowledge sharing on smaller components of Linux systems, smaller projects, or proof-of-concepts for more ambitious ideas. I believe Asura Linux will be an umbrella project, a vehicle for my experimentation as a technologist. If there's anything I can share, it'll be public and open source.
 
