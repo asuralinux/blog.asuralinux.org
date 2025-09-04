@@ -23,14 +23,14 @@ When I announced Asura Linux as a project, I was trying to scratch a particular 
 It's not as dramatic as it sounds. I've been using Fedora Workstation with GNOME + PaperWM for a while (perhaps Niri on Fedora Silverblue sometime later) as my desktop setup. However, I want to put my thought process in the proper context and set realistic expectations about the future of Asura Linux.
 
 
-## What Project Asura is
+## What "Project Asura" is
 
 First and foremost, Asura is a personal side-project. It's a vehicle for my experimentation as a technologist. It was always so, and it'll likely remain—unless something emerges from it that other people find meaningful. This is an open source project. That much has not changed.
 
 These days, I introduce Asura Linux as follows. Asura Linux is an Open Source project to experiment with different ways of building and running modern general-purpose Linux systems—and to share what we learn along the way.
 
 
-## What happeneds
+## What happened
 
 Despite my claims not to, due to my eagerness to have a functional desktop UX sooner, I ended up trying to build a usable distro. I could have gone the Fedora Atomic/Universal Blue approach, but that wasn't exactly what I wanted. Since I wasn't trying to adjust an existing flavor to taste or attempt to write my own full-featured Wayland compositor, I was trying to do too much too early. For example, building packages from source and generating custom ISOs was a lot of work—even without spending any real innovation tokens yet. This quickly became a bottleneck due to two personal reasons.
 
@@ -43,7 +43,7 @@ I wouldn't say I thrived in the past two years—I survived and endured. Hopeful
 In summary, this is why there was no update from Asura Linux in the past two years. However, I'm finally at a point where I can afford reflection and think about the way forward.
 
 
-## The future of Asura Linux
+## The future of "Asura Linux"
 
 I recently found some time to reactivate this blog and migrate the Asura Linux Mastodon account (from Fosstodon to Hachyderm). Does that indicate the project is back? Yes, and no.
 
