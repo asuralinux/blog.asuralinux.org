@@ -1,6 +1,6 @@
-baseURL = 'https://blog.asuralinux.org/'
-languageCode = 'en-us'
-title = 'Asura Linux Project'
+baseURL = "https://blog.asuralinux.org/"
+languageCode = "en-us"
+title = "Asura Linux Project"
 
 theme = "paper"
 
